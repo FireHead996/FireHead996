@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Mikołaj Panecki. You don't speak polish? You can call me Nick. 😄
+
+I make videos on [YouTube]. First steps in webdev? I can help you with that!
+
+You can find some of my awesome repos below. Feel free to use them in any way you'd like!
+
+[YouTube]: https://www.youtube.com/firehead996
 
 <!--
 **FireHead996/FireHead996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
